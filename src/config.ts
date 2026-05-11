@@ -1,8 +1,9 @@
 export const loginEndpoint =
-  'https://script.google.com/macros/s/AKfycbyInr9SHJhujrGzOJVo_wtZlaDt7i304LO07g7-0bIDWONYsChUqPlHDS0tMkoG8S1C/exec'
+  'https://script.google.com/macros/s/AKfycbxTwm0iouK_3gxut05qdYJb6U_C2GEzHtbv5kkMsTgWBgLh2Kq3N9CEefMWZmLSqf6ZPA/exec'
 
 export const classScriptUrls: Record<string, string> = {
-  FQA: 'https://script.google.com/macros/s/AKfycbzXLM9GUv3e2BiY_p9dQGxRkri-6mDF9PZRaDryHE756MFzc9-ZQiViUO37BTVfl3cL/exec',
+  KANTOR:
+    'https://script.google.com/macros/s/AKfycbxLRqdyrWpGcSP5m9IGaF5-fnbyaX_y-g0XqMtao824btYsYjeTshZkZE0_57XEbni3TQ/exec',
   FQB: 'https://script.google.com/macros/s/AKfycbyiACb-7aDDc5GxwN3WEMg1QrObBwQuIYNvQ7vAqsyNgMOtLPJfKOuvz6liegrVlKrGPQ/exec',
   FQC: 'https://script.google.com/macros/s/AKfycbwPem7KOuWRsRqw-ccJGjpnwS5rf-rvr7H9LlmfI-1kksKNwiJVrbQwlDEcDiUP0ng9jQ/exec',
   FQD: 'https://script.google.com/macros/s/AKfycbwiVVdxF5qBAFAdw7AVtOL-7FswmsCFklFVIMwI6mRcjC7j5a98uKjr2ttRXea4Js3S_g/exec',
