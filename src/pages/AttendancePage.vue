@@ -17,7 +17,7 @@
 
       <!-- Judul -->
       <h1 class="text-xl md:text-2xl font-bold text-center text-gray-800 leading-tight mb-1">
-        Absensi Ma'had Aly
+        Absensi Wajib Khidmah Ma'had Aly
       </h1>
       <h2 class="text-lg md:text-xl font-semibold text-center text-gray-700 mb-4">
         Al Falah Ploso
