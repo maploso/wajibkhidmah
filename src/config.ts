@@ -6,7 +6,8 @@ export const classScriptUrls: Record<string, string> = {
     'https://script.google.com/macros/s/AKfycbxLRqdyrWpGcSP5m9IGaF5-fnbyaX_y-g0XqMtao824btYsYjeTshZkZE0_57XEbni3TQ/exec',
   KAMTIB:
     'https://script.google.com/macros/s/AKfycbxFw-YW_T0PTWidagQu03thcpXLvHFWdp_uVWeBMAbwPnj3r6NUGYVauNppgc3u_S8J/exec',
-  FQC: 'https://script.google.com/macros/s/AKfycbwPem7KOuWRsRqw-ccJGjpnwS5rf-rvr7H9LlmfI-1kksKNwiJVrbQwlDEcDiUP0ng9jQ/exec',
+  CABANG:
+    'https://script.google.com/macros/s/AKfycbzcP-YCFd8LJbR77DK93uRlY5BrE0K11vLo5wU5eue_Xn8yLRaLSqKf2uai5Aooetet3Q/exec',
   FQD: 'https://script.google.com/macros/s/AKfycbwiVVdxF5qBAFAdw7AVtOL-7FswmsCFklFVIMwI6mRcjC7j5a98uKjr2ttRXea4Js3S_g/exec',
   FMA: 'https://script.google.com/macros/s/AKfycbzqNTxDXc4y8B_eRhGDpB6clUPYWIfVokN3yrk5J2BsDCzV1h_vwTCevBt28Rku9B5wiw/exec',
   FMB: 'https://script.google.com/macros/s/AKfycbwcsZiStjT7YoedPUjcwF3cL16agQF9E3a16doOUzebYbgwrZaRXMuSL_vevOUbqov4GA/exec',
